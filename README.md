@@ -8,5 +8,5 @@ However, you are strongly encourage to get a copy of [Learn Python the Hard Way]
 
 ## Lectures
 * Week 1. Working with Python (editors). Assignment. Printing.
-    Lecture notes.
+  * Lecture notes.
 * Week 2. Loops. Conditionals. 
