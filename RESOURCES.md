@@ -1,10 +1,8 @@
-Additional resources.
+## Additional resources.
 
-[Programming with Python](http://www.maths.manchester.ac.uk/~vsego/teaching.php)
-
+* [Programming with Python.](http://www.maths.manchester.ac.uk/~vsego/teaching.php)
 A course taught at the University of Manchester by Vedran Sego.
-
-[Learn Python the Hard Way](http://learnpythonthehardway.org/)
+* [Learn Python the Hard Way](http://learnpythonthehardway.org/)
 
 Other course links
 
