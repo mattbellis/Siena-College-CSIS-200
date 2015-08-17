@@ -8,7 +8,7 @@ However, you are strongly encourage to get a copy of [Learn Python the Hard Way]
 
 ## Lectures
 * Working with Python (editors). Assignment. Printing.
-  * Lecture notes.
+  * [Lecture notes](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_printing_and_assignments.py).
 * Loops. Conditionals. 
   * Lecture notes.
 * Loops. Conditionals. 
