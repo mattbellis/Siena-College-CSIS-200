@@ -2,9 +2,15 @@
 
 ## Python
 
+### Other courses
 * [Programming with Python.](http://www.maths.manchester.ac.uk/~vsego/teaching.php)
 A course taught at the University of Manchester by Vedran Sego.
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/)
+* [Code Academy.](https://www.codecademy.com/en/tracks/python) Online bootcamp that teaches you Python through exercises in the browser. 
+
+### Straight-up reference material
+* [WikiBooks: Python programming](https://en.wikibooks.org/wiki/Python_Programming)
+* [The "official" Python tutorial.](https://docs.python.org/2/tutorial/index.html)
 
 ## Jupyter/IPython
 * [Bryn Maywr's Jupyter Notebook Users Manual](http://jupyter.cs.brynmawr.edu/hub/dblank/public/Jupyter%20Notebook%20Users%20Manual.ipynb). A very detailed overview of the features of the Notebook. 
