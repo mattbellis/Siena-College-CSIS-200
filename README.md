@@ -19,8 +19,6 @@ The pace of the course will be dictated by how well the majority of the class is
   * Lecture notes
 * Loops. Conditionals. 
   * Lecture notes.
-* Loops. Conditionals. 
-  * Lecture notes.
 * Functions 
   * Lecture notes.
 * Lists and strings
