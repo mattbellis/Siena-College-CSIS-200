@@ -23,6 +23,8 @@ However, you are strongly encourage to get a copy of [Learn Python the Hard Way]
   * Lecture notes
 * Numpy and scipy
   * Lecture notes
+* Timing and optimization
+  * Lecture notes
 * LaTeX
   * Lecture notes
 * Other languaes
