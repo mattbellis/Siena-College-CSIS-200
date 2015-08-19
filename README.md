@@ -26,14 +26,17 @@ However, you are strongly encourage to get a copy of [Learn Python the Hard Way]
   * Lecture notes
 * Timing and optimization
   * Lecture notes
+
 ### LaTeX
 * LaTeX
   * Lecture notes
+
 ### Version control. Git/Github
 * Version control and Git
   * Lecture notes
 * Github
   * Lecture notes
+
 ### Other
 * Other languages
   * C
