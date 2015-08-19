@@ -42,9 +42,12 @@ The pace of the course will be dictated by how well the majority of the class is
 * Github
   * Lecture notes
 
-### Other
-* Other languages
-  * C
-  * Processing
-  * R
-  * MATLAB/Octave
+### Other Languages
+* C
+* Processing
+* R
+* MATLAB/Octave
+
+### Miscellaneous
+* Presentation of data
+  * Lecture notes
