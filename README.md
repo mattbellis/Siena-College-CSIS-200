@@ -13,8 +13,10 @@ Below is a list of topics that we will be covering in class. *It is likely that 
 The pace of the course will be dictated by how well the majority of the class is developing competency with the material. However, you should always feel free to plow ahead on your own! There are a ton of great [resources](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/RESOURCES.md) out there and you can always learn a lot from self-guided study. 
 
 ### Python
-* Working with Python (editors). Assignment. Printing.
+* Working with Python (command line, IDLE). Assignment. Printing.
   * [Lecture notes](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_printing_and_assignments.py).
+* IPython/Jupyter notebooks
+  * Lecture notes
 * Loops. Conditionals. 
   * Lecture notes.
 * Loops. Conditionals. 
