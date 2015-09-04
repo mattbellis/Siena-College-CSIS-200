@@ -2,6 +2,10 @@
 
 ## Python
 
+### Installation
+* [Anaconda/ContinuumIO](http://continuum.io/downloads). This is how you will install Python. 
+* [Introduction to conda](http://conda.pydata.org/docs/intro.html), the tool you will use to install other Python packages. 
+
 ### Other courses
 * [Programming with Python.](http://www.maths.manchester.ac.uk/~vsego/teaching.php)
 A course taught at the University of Manchester by Vedran Sego.
