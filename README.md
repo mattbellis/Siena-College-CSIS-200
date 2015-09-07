@@ -36,6 +36,10 @@ The pace of the course will be dictated by how well the majority of the class is
 * LaTeX
   * Lecture notes
 
+### Linux
+* Linux
+  * Lecture notes
+
 ### Version control. Git/Github
 * Version control and Git
   * Lecture notes
