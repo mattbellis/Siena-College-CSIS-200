@@ -26,7 +26,7 @@ To download any of these lectures, you can do this:
   * Lecture notes.
 * Functions 
   * Lecture notes.
-* Lists and strings
+* Lists, strings, dictionaries
   * Lecture notes
 * Reading from and writing to files
   * Lecture notes
