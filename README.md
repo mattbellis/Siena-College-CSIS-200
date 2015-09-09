@@ -21,7 +21,7 @@ To download any of these lectures, you can do this:
 * Working with Python (the interpreter, command line, IDLE). Assignment. Printing.
   * [Lecture notes](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_printing_and_assignments.py).
 * IPython/Jupyter notebooks
-  * Lecture notes
+  * [Lecture notes](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_intro_to_Jupyter_notebook.ipynb)
 * Loops. Conditionals. 
   * Lecture notes.
 * Functions 
