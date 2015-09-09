@@ -12,6 +12,11 @@ Below is a list of topics that we will be covering in class. *It is likely that 
 
 The pace of the course will be dictated by how well the majority of the class is developing competency with the material. However, you should always feel free to plow ahead on your own! There are a ton of great [resources](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/RESOURCES.md) out there and you can always learn a lot from self-guided study. 
 
+To download any of these lectures, you can do this:
+* Click on the link.
+* Click on the Raw button in the upper right. 
+* Ctrl-s to save the file to your laptop. 
+
 ### Python
 * Working with Python (the interpreter, command line, IDLE). Assignment. Printing.
   * [Lecture notes](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_printing_and_assignments.py).
@@ -21,7 +26,7 @@ The pace of the course will be dictated by how well the majority of the class is
   * Lecture notes.
 * Functions 
   * Lecture notes.
-* Lists and strings
+* Lists, strings, dictionaries
   * Lecture notes
 * Reading from and writing to files
   * Lecture notes
