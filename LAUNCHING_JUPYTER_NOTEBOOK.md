@@ -1,0 +1,15 @@
+# Mac
+## Anaconda Launcher
+* Open the Anaconda Launcher (can use Search to find it if you don't have the icon.
+* Select ipython-notebook and either Install or Launch
+
+## Terminal
+* Open a Terminal
+* Type
+```
+jupyter-notebook
+```
+or
+```
+jupyter notebook
+```
