@@ -23,6 +23,7 @@ To download any of these lectures, you can do this:
   * LPTHW chapters. [A](http://learnpythonthehardway.org/book/ex4.html),[B](http://learnpythonthehardway.org/book/ex5.html),[C](http://learnpythonthehardway.org/book/ex6.html),[D](http://learnpythonthehardway.org/book/ex7.html)
 * IPython/Jupyter notebooks
   * [Lecture notes](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_intro_to_Jupyter_notebook.ipynb)
+  * [Bryn Mawr comprehensive Jupyter users' manual](http://jupyter.cs.brynmawr.edu/hub/dblank/public/Jupyter%20Notebook%20Users%20Manual.ipynb)
 * Lists
   * [Lecture notes](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_lists.ipynb)
   * LPTHW chapters. [A](http://learnpythonthehardway.org/book/ex32.html), [B](http://learnpythonthehardway.org/book/ex32.html),[C](http://learnpythonthehardway.org/book/ex32.html)
