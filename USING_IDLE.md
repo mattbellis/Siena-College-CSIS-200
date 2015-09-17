@@ -16,7 +16,7 @@ To save a file do
 
 To run/execute the script do
 
-**Run --> Run Module** or just *F5*
+**Run --> Run Module** or just *F5* (or *fn-F5* on Mac)
 
 For most of this class we will be using IDLE as a [text editor](https://en.wikipedia.org/wiki/Text_editor): we will use it to actuall write and edit our code. 
 
