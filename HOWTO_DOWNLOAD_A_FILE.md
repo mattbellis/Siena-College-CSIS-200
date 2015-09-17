@@ -7,7 +7,7 @@ Chrome for this class for downloading files. If you don't already have it, click
 
 2 If the file is on Github, then
   1. Go to the file.
-  1. Click on **Raw** in the upper left.
+  1. Click on **Raw** in the upper right.
   1. Click **Ctrl-s** to save.
 
 3 You want to verify with your File Manager (Finder on Mac, My Computer or File Explorer on Windows) that the file you downloaded has either the **.py** or **.ipynb** at the very end, depending on the type of file you download. 
