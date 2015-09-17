@@ -18,16 +18,21 @@ To download any of these lectures, you can do this:
 * Ctrl-s to save the file to your laptop. 
 
 ### Python
-* Working with Python (the interpreter, command line, IDLE). Assignment. Printing.
+* Working with Python (the interpreter, command line, IDLE). Assignment (int, float, str). Printing.
   * [Lecture notes](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_printing_and_assignments.py).
+  * LPTHW chapters. [A](http://learnpythonthehardway.org/book/ex4.html),[B](http://learnpythonthehardway.org/book/ex5.html),[C](http://learnpythonthehardway.org/book/ex6.html),[D](http://learnpythonthehardway.org/book/ex7.html)
 * IPython/Jupyter notebooks
   * [Lecture notes](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_intro_to_Jupyter_notebook.ipynb)
-* Loops. Conditionals. 
+* Lists
+  * Lecture notes
+  * LPTHW chapters. [A](http://learnpythonthehardway.org/book/ex32.html), [B](http://learnpythonthehardway.org/book/ex32.html),[C](http://learnpythonthehardway.org/book/ex32.html)
+* Loops. 
+  * Lecture notes.
+* Conditionals. 
   * Lecture notes.
 * Functions 
   * Lecture notes.
-* Lists, strings, dictionaries
-  * Lecture notes
+* Dictionaries
 * Reading from and writing to files
   * Lecture notes
 * Plotting (matplotlib)
