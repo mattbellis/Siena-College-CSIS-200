@@ -26,7 +26,7 @@ jupyter notebook
 * To open a file, click on the proper folders (for this class *Desktop --> CSIS_200_F15*) to find the file. 
 * Double click on the file to open. 
 * **If it does not open properly or it says something about it being a Text File* then you will need to rename the file**
-** To rename the file, double click on the file name in the upper right. 
-** If it has a *.txt* at the end of the name, remove this but make sure you keep the *.ipynb*. 
-** Close the file. 
-** Reopen it. It should render properly now. 
+    * To rename the file, double click on the file name in the upper right. 
+    * If it has a *.txt* at the end of the name, remove this but make sure you keep the *.ipynb*. 
+    * Close the file. 
+    * Reopen it. It should render properly now. 
