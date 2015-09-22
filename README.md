@@ -27,10 +27,10 @@ To download any of these lectures, you can do this:
   * [In-class lab](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/INCLASS_using_the_notebook.ipynb)
 * Lists
   * [Lecture notes](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_lists.ipynb)
-  * LPTHW chapters. [A](http://learnpythonthehardway.org/book/ex32.html), [B](http://learnpythonthehardway.org/book/ex32.html),[C](http://learnpythonthehardway.org/book/ex32.html)
+  * LPTHW chapters. [A](http://learnpythonthehardway.org/book/ex32.html), [B](http://learnpythonthehardway.org/book/ex33.html),[C](http://learnpythonthehardway.org/book/ex34.html)
 * Loops. 
   * [Lecture notes.](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_loops.ipynb)
-  * LPTHW chapters [A](http://learnpythonthehardway.org/book/ex32.html),[B](http://learnpythonthehardway.org/book/ex32.html)
+  * LPTHW chapters [A](http://learnpythonthehardway.org/book/ex32.html),[B](http://learnpythonthehardway.org/book/ex33.html)
 * Conditionals. 
   * Lecture notes.
 * Functions 
