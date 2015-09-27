@@ -15,6 +15,7 @@ A course taught at the University of Manchester by Vedran Sego.
 ### Straight-up reference material
 * [WikiBooks: Python programming](https://en.wikibooks.org/wiki/Python_Programming)
 * [The "official" Python tutorial.](https://docs.python.org/2/tutorial/index.html)
+* [Understanding loops in Python](https://www.youtube.com/watch?v=9LgyKiq_hU0). A Kahn Academy video on YouTube.
 
 ## Jupyter/IPython
 * [Launching the Jupyter/IPython notebook and setting the default folder](http://jupyter-notebook-beginner-guide.readthedocs.org/en/latest/execute.html)
