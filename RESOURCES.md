@@ -25,6 +25,10 @@ A course taught at the University of Manchester by Vedran Sego.
 
 * [A gallery of interesting IPython notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 
+## Challenge yourself!
+* [Project Euler](https://projecteuler.net/). A set of mathematical problems that can be solved in a variety of programming languages. You get to upload your solutions and see how you measure up against others!
+* [Rosalind](http://rosalind.info/problems/locations/). A set of bioinformatics problems that can be solved using Python. Learn about molecular biology while learning Python! What could be better! *(Answer: nothing)*
+
 ## LaTeX
 
 ## SageMathCloud
