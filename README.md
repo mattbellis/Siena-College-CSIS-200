@@ -34,9 +34,13 @@ To download any of these lectures, you can do this:
   * LPTHW chapters [A](http://learnpythonthehardway.org/book/ex32.html),[B](http://learnpythonthehardway.org/book/ex33.html)
   * [In-class lab](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/INCLASS_loops.ipynb)
 * Conditionals. 
-  * Lecture notes.
+  * [Lecture notes.](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_conditionals.ipynb)
+  * LPTHW chapters [A](http://learnpythonthehardway.org/book/ex29.html),[B](http://learnpythonthehardway.org/book/ex30.html),[C](http://learnpythonthehardway.org/book/ex31.html)
+  * [In-class lab](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/INCLASS_conditionals.ipynb)
 * Functions 
-  * Lecture notes.
+  * [Lecture notes.](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_functions.ipynb)
+  * LPTHW chapters [A](http://learnpythonthehardway.org/book/ex18.html),[B](http://learnpythonthehardway.org/book/ex19.html),[C](http://learnpythonthehardway.org/book/ex20.html),[D](http://learnpythonthehardway.org/book/ex21.html)
+  * [In-class lab](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/INCLASS_functions.ipynb)
 * Dictionaries
 * Reading from and writing to files
   * Lecture notes
