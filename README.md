@@ -46,12 +46,19 @@ To download any of these lectures, you can do this:
 
 [Review 2](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/REVIEW_printing_assignment_loops_lists_conditionals_functions_PART2.ipynb)
 
+* Importing modules
+  * [Lecture notes.](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_modules.ipynb)
+  * LPTHW chapters [A](http://learnpythonthehardway.org/book/ex40.html)
+* Numpy and scipy
+  * [Lecture notes.](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_numpy_scipy.ipynb)
+  * [Numpy](http://www.numpy.org/)
+  * [Scipy](http://www.scipy.org/)
+  * [In-class lab](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/INCLASS_numpy.ipynb)
+* Plotting (matplotlib)
+  * [Lecture notes.](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_plotting.ipynb)
+  * [Matplotlib](http://matplotlib.org/)
 * Dictionaries
 * Reading from and writing to files
-  * Lecture notes
-* Plotting (matplotlib)
-  * Lecture notes
-* Numpy and scipy
   * Lecture notes
 * Timing and optimization
   * Lecture notes
