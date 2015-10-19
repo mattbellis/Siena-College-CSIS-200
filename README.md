@@ -57,11 +57,15 @@ To download any of these lectures, you can do this:
 * Plotting (matplotlib)
   * [Lecture notes.](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_plotting.ipynb)
   * [Matplotlib](http://matplotlib.org/)
-* Dictionaries
 * Reading from and writing to files
   * Lecture notes
+
+***Given time...***
 * Timing and optimization
   * Lecture notes
+* Dictionaries
+
+
 
 ### LaTeX
 * LaTeX
