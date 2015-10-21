@@ -58,7 +58,13 @@ To download any of these lectures, you can do this:
   * [Lecture notes.](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_plotting.ipynb)
   * [Matplotlib](http://matplotlib.org/)
 * Reading from and writing to files
-  * Lecture notes
+  * [Lecture notes.](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_file_reading_writing.ipynb)
+  * LPTHW chapters [A](http://learnpythonthehardway.org/book/ex15.html),[B](http://learnpythonthehardway.org/book/ex16.html),[C](http://learnpythonthehardway.org/book/ex17.html)
+  * [In-class lab](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/INCLASS_file_reading_writing.ipynb)
+  * Data files:
+      * [data0.dat](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/data0.dat)
+      * [data1.csv](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/data1.csv)
+      * [demographics.csv](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/demographics.csv)
 
 ***Given time...***
 * Timing and optimization
