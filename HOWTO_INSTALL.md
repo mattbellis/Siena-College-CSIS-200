@@ -6,12 +6,10 @@ Helper links to install the programs used in this course.
 
 ## LaTeX
 ### Windows
-* [MikTeX](http://miktex.org/)
-    * [Download](http://miktex.org/download)
+* [MikTeX](http://miktex.org/) distribution. [Download here.](http://miktex.org/download)
 
 ### Mac
-* [MacTex](https://tug.org/mactex/)
-    * [Download](https://tug.org/mactex/mactex-download.html)
+* [MacTex](https://tug.org/mactex/) distribution. [Download here.](https://tug.org/mactex/mactex-download.html)
 
 ## Sage Math Cloud
 
