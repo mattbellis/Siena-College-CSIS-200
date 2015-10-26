@@ -15,13 +15,13 @@ For the first step, you will create the simplest LaTeX document by following the
 * Create a new **Folder** under your **CSIS-200-F15** folder called *firstlatex*. 
 * From your LaTeX editor, open a *File --> New Document* and type the following in the editor.
     
-     \documentclass[article]
-         
-     \begin{document}
-         
-      Hello world!
+        \documentclass[article]
+             
+        \begin{document}
+             
+           Hello world!
      
-     \end{document}
+        \end{document}
 
 * Click **File --> Save As** and save it in your **firstlatex** folder with the name 
 
