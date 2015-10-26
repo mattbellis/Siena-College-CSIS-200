@@ -25,7 +25,7 @@ For the first step, you will create the simplest LaTeX document by following the
 
 * Click **File --> Save As** and save it in your **firstlatex** folder with the name 
 
-     myarticle.tex
+         myarticle.tex
 
 * Next you want to "compile" it, which means convert it to a PDF file. You can do this by pressing either the green button (TeXWorks) or the *Typeset* button (TeXShop). 
 * If everything has worked, you will see a plain PDF with the words "Hello world!"
