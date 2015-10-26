@@ -75,7 +75,8 @@ To download any of these lectures, you can do this:
 
 ### LaTeX
 * LaTeX
-  * Lecture notes
+  * [Installation](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/HOWTO_INSTALL.md)
+  * [In-class lab](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_install_and_test_LaTeX.md)
 
 ### Linux
 * Linux
