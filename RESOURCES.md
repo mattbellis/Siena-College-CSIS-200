@@ -30,6 +30,11 @@ A course taught at the University of Manchester by Vedran Sego.
 * [Rosalind](http://rosalind.info/problems/locations/). A set of bioinformatics problems that can be solved using Python. Learn about molecular biology while learning Python! What could be better! *(Answer: nothing)*
 
 ## LaTeX
+* [Offical LaTeX site](https://www.latex-project.org/)
+    * "LaTeX is a high-quality typesetting system; it includes features designed for the production of technical and scientific documentation. LaTeX is the de facto standard for the communication and publication of scientific documents."
+* [Wikipedia](https://en.wikipedia.org/wiki/LaTeX)
+* [Listing of symbols](http://www.artofproblemsolving.com/wiki/index.php/LaTeX:Symbols)
+* [Tutorial](http://www.latex-tutorial.com/)
 
 ## SageMathCloud
 
