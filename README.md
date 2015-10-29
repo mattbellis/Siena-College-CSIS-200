@@ -74,9 +74,12 @@ To download any of these lectures, you can do this:
 
 
 ### LaTeX
-* LaTeX
+* Installation and checking installation
   * [Installation](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/HOWTO_INSTALL.md)
   * [In-class lab](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_install_and_test_LaTeX.md)
+* Basics of LaTeX
+  * [Starter file](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/latex_lecture.tex)
+  * [Image of Siena](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/siena_photo.png)
 
 ### Linux
 * Linux
