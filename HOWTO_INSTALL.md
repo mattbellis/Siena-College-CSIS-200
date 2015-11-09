@@ -14,4 +14,6 @@ Helper links to install the programs used in this course.
 * If you have installed it properly, you can now open up [TeXShop](http://pages.uoregon.edu/koch/texshop/texshop.html) on your computer. This will be your primary editing environment. You may have to Search on your computer to find TeXShop, if it is not in the Launch bar. 
 
 ## Sage Math Cloud
+* Sign up for an account [here](https://cloud.sagemath.com/).
+* From [Wikipedia](https://en.wikipedia.org/wiki/SageMathCloud): "*SageMathCloud is a cloud computing platform designed for computational mathematics. Part of the Sage project, it supports editing of Sage worksheets, LaTeX documents, and IPython notebooks. SageMathCloud runs an Ubuntu Linux environment that can be interacted with through a terminal, additionally giving access to most of the capabilities of Linux.[1] It can be freely accessed online and requires an account to use.*"
 
