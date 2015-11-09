@@ -4,9 +4,10 @@ CSIS 200: Software Tools for Physicists. An introductory programming course for 
 # Table of Contents
 1. [Textbook](#textbook)
 2. [Lectures](#lectures)
-  a. [Python](#python)
-  b. [LaTeX](#latex)
-  c. [Linux](#linux)
+    1. [Python](#python)
+    2. [LaTeX](#latex)
+    3. [Linux](#linux)
+    4. [Version control](#version control)
 
 ## Textbook
 There is no required textbook for this class. 
@@ -99,7 +100,7 @@ To download any of these lectures, you can do this:
   * [Computer memory](https://simple.wikipedia.org/wiki/Computer_memory)
   * [Hard disk](https://simple.wikipedia.org/wiki/Hard_disk)
 
-### Version control. Git/Github
+### Version control
 * Version control and Git
   * Lecture notes
 * Github
