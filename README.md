@@ -86,6 +86,11 @@ To download any of these lectures, you can do this:
   * [Operating system](https://simple.wikipedia.org/wiki/Operating_system)
   * [Unix](https://simple.wikipedia.org/wiki/UNIX)
   * [Linux](https://simple.wikipedia.org/wiki/Linux)
+  * [Kernel](https://simple.wikipedia.org/wiki/Kernel_(computer_science))
+  * [Linux kernel](https://simple.wikipedia.org/wiki/Linux_kernel)
+  * [CPU](https://simple.wikipedia.org/wiki/Central_processing_unit) (just read the introduction)
+  * [Computer memory](https://simple.wikipedia.org/wiki/Computer_memory)
+  * [Hard disk](https://simple.wikipedia.org/wiki/Hard_disk)
 
 ### Version control. Git/Github
 * Version control and Git
