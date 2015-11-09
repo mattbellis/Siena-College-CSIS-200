@@ -2,7 +2,7 @@
 CSIS 200: Software Tools for Physicists. An introductory programming course for Physics and other Science majors. 
 
 # Table of Contents
-1. [Textbook](#Textbook)
+1. [Textbook](#textbook)
 
 ## Textbook
 There is no required textbook for this class. 
