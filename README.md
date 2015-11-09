@@ -82,8 +82,10 @@ To download any of these lectures, you can do this:
   * [Image of Siena](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/siena_photo.png)
 
 ### Linux
-* Linux
-  * Lecture notes
+* Reading from [Simple Wikipedia](https://simple.wikipedia.org/wiki/Main_Page)
+  * [Operating system](https://simple.wikipedia.org/wiki/Operating_system)
+  * [Unix](https://simple.wikipedia.org/wiki/UNIX)
+  * [Linux](https://simple.wikipedia.org/wiki/Linux)
 
 ### Version control. Git/Github
 * Version control and Git
