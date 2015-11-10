@@ -74,6 +74,9 @@ To download any of these lectures, you can do this:
       * [data1.csv](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/data1.csv)
       * [demographics.csv](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/demographics.csv)
 
+* More exercises
+     * [Monte Carlo estimation of pi](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/EXERCISE_Monte_Carlo_calculation_of_pi.ipynb)
+
 ***Given time...***
 * Timing and optimization
   * Lecture notes
