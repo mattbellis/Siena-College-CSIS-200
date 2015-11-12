@@ -12,7 +12,7 @@ Where are you?
 
 Who are you?
 
-   whoami
+    whoami
 
 What files are in this directory?
 
