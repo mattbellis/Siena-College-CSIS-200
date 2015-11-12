@@ -102,6 +102,7 @@ To download any of these lectures, you can do this:
   * [CPU](https://simple.wikipedia.org/wiki/Central_processing_unit) (just read the introduction)
   * [Computer memory](https://simple.wikipedia.org/wiki/Computer_memory)
   * [Hard disk](https://simple.wikipedia.org/wiki/Hard_disk)
+* [Exercise on navigation](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/EXERCISE_Linux_navigate_hello_world.md)
 
 ### Version control
 * Version control and Git
