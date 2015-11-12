@@ -70,9 +70,12 @@ To download any of these lectures, you can do this:
   * LPTHW chapters [A](http://learnpythonthehardway.org/book/ex15.html),[B](http://learnpythonthehardway.org/book/ex16.html),[C](http://learnpythonthehardway.org/book/ex17.html)
   * [In-class lab](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/INCLASS_file_reading_writing.ipynb)
   * Data files. You will need these files to run the Lecture and In-class lab notebooks. When you download the files, make sure that you copy them to the same directory that the notebooks are in. 
-      * [data0.dat](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/data0.dat)
-      * [data1.csv](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/data1.csv)
-      * [demographics.csv](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/demographics.csv)
+    * [data0.dat](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/data0.dat)
+    * [data1.csv](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/data1.csv)
+    * [demographics.csv](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/demographics.csv)
+
+* More exercises
+  * [Monte Carlo estimation of pi](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/EXERCISE_Monte_Carlo_calculation_of_pi.ipynb)
 
 ***Given time...***
 * Timing and optimization
