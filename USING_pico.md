@@ -15,3 +15,6 @@ To save the file and exit, use the Ctrl key and the "x" key.
 
 It will prompt you for the filename to save it to. If you want to save it to the same name (the usual),
 just hit **Enter**. Otherwise, enter in a new filename and hit **Enter**.
+
+There are a bunch of other commands at the bottom of the screen, most involving the Ctrl key. You can explore
+these at your leisure. 
