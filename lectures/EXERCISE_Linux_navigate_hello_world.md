@@ -41,3 +41,10 @@ Your assignment now is to:
 * What is the full path to the data files?
 * Where do I need to book travel to?
 
+
+Once the class has caught up to this point, follow along with the instructor and your "Linux cheat-sheet" to
+* Make a copy of some of the files. 
+* Delete some of these files. 
+* Make a new directory.
+* Remove that directory. 
+* Edit a file using the [pico editor](https://www.cs.colostate.edu/helpdocs/pico.html) or [nano editor](http://mintaka.sdsu.edu/reu/nano.html). 
