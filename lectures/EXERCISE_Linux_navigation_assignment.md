@@ -14,4 +14,4 @@
         tar -zxf linux_exercise_navigation.tgz
 
 7. Answer the questions for this assignment using the Google Form provided in the Classroom website. 
-    1. *You should cut-and-paste your answers between the terminal and the Google Form. If you type things yourself, you may make a mistake and it will be graded incorrectly. 
+    1. *You should cut-and-paste your answers between the terminal and the Google Form. If you type things yourself, you may make a mistake and it will be graded incorrectly.* 
