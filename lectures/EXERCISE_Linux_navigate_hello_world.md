@@ -34,6 +34,9 @@ What files/directories do you have now?
 Your assignment now is to:
 * Map out the files and directories under "project".
 * Run any python scripts you find. 
+
+    python <filename>
+
 * Look inside any data files you find. 
 * What is the full path to the data files?
 * Where do I need to book travel to?
