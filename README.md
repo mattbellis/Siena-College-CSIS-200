@@ -102,6 +102,7 @@ To download any of these lectures, you can do this:
   * [CPU](https://simple.wikipedia.org/wiki/Central_processing_unit) (just read the introduction)
   * [Computer memory](https://simple.wikipedia.org/wiki/Computer_memory)
   * [Hard disk](https://simple.wikipedia.org/wiki/Hard_disk)
+* [Learn Python the Hard Way chapter on Linux/Unix Command Line Crash Course](http://learnpythonthehardway.org/book/appendixa.html)
 * [Exercise on navigation](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/EXERCISE_Linux_navigate_hello_world.md)
 * [Assignment instructions for navigation, edit, and Python execution](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/EXERCISE_Linux_navigation_assignment.md)
 
