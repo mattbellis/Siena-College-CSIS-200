@@ -40,13 +40,13 @@ with different numbers of points.
 1. Create a file called **run_script.sh** and put in the following lines. *Made sure you don't have any spaces on that first line!*
 
           n=1000000
-          python calc_py.py $1
-          python calc_py.py $1
-          python calc_py.py $1
-          python calc_py.py $1
-          python calc_py.py $1
-          python calc_py.py $1
-          python calc_py.py $1
+          python calc_py.py $n
+          python calc_py.py $n
+          python calc_py.py $n
+          python calc_py.py $n
+          python calc_py.py $n
+          python calc_py.py $n
+          python calc_py.py $n
   
 2. Run this script by executing the following command on the Linux command line. 
 
