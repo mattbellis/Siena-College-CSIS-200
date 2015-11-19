@@ -105,6 +105,7 @@ To download any of these lectures, you can do this:
 * [Learn Python the Hard Way chapter on Linux/Unix Command Line Crash Course](http://learnpythonthehardway.org/book/appendixa.html)
 * [Exercise on navigation](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/EXERCISE_Linux_navigate_hello_world.md)
 * [Assignment instructions for navigation, edit, and Python execution](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/EXERCISE_Linux_navigation_assignment.md)
+* [Exercise on command-line options to Python and shell scripts](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/EXERCISE_Linux_shell_scripts_command_line_options.md)
 
 ### Version control
 * Version control and Git
