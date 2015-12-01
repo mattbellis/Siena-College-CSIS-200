@@ -18,3 +18,9 @@ Helper links to install the programs used in this course.
 * Sign up for an account [here](https://cloud.sagemath.com/).
 * From [Wikipedia](https://en.wikipedia.org/wiki/SageMathCloud): "*SageMathCloud is a cloud computing platform designed for computational mathematics. Part of the Sage project, it supports editing of Sage worksheets, LaTeX documents, and IPython notebooks. SageMathCloud runs an Ubuntu Linux environment that can be interacted with through a terminal, additionally giving access to most of the capabilities of Linux.[1] It can be freely accessed online and requires an account to use.*"
 
+--------
+
+## Git
+* Instructions to install Git on both Windows and Mac can be found on [Git Immersion](http://gitimmersion.com/) (links on right). 
+   * You should *not* install the "Graphical Clients" at this time. Just use the "Install Git" links. 
+
