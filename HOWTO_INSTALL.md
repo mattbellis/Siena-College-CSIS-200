@@ -48,7 +48,7 @@ Helper links to install the programs used in this course.
 
 * If it works you will see something like
 
-         git version 2.6.3.windows.1
+         git version 2.6.2
 
 
 
