@@ -40,5 +40,16 @@ Helper links to install the programs used in this course.
 
          git version 2.6.3.windows.1
 
+### Mac
+* Download the file and double click the file to install, if it doesn't automatically. 
+* When you have installed everything, open a **Terminal** and type
+
+         git --version
+
+* If it works you will see something like
+
+         git version 2.6.3.windows.1
+
+
 
 
