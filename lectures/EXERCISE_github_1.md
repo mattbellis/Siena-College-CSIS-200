@@ -26,6 +26,42 @@ Let's get started!
   2. Highlight (in preparation for copying it) the text next to it. Something like "https://github..." You can Ctrl-c it, just in case it works on your laptop. 
   3. Go back your Git Bash/Terminal window and type the following, replacing the URL with your own. 
 
-         git clone https://github.com/mattbellis/hello_world.git
+          git clone https://github.com/mattbellis/hello_world.git
 
-# Make some changes. 
+# Add a file and commit it to your local (on your laptop) repo
+1. Create an empty file with the *touch* command.
+
+          touch test_file.tmp
+
+2. Add it to your ***local*** (on your laptop) repo. 
+
+          git add test_file.tmp
+
+3. Commit it to your ***local*** repo. We will give it a message with the *-m* option. 
+
+          git commit -m "Added a new file that is empty for now." test_file.tmp
+
+# Push it back to Github
+1. Copy all this information and new file back to Github
+
+          git push
+
+2. You may be prompted for your Github username and password. 
+3. Check on the website to see if both the file and the commit message show up!
+
+# Edit using the website
+1. On the website, select the file **test_file.tmp**.
+2. Find the Edit button that looks like a pencil positioned at an angle with a positive slope. 
+3. Click it and edit the file. Just add some text.
+4. When you are done, click the green **Commit changes** button at the bottom. 
+
+# Pull those changes back to your laptop
+1. Go back your Git Bash/Terminal window and type the following
+
+          git pull
+
+2. Check to see if the contents of the file has changed using the usual Linux commands. 
+
+          cat test_file.tmp
+
+
