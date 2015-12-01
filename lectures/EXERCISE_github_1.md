@@ -10,3 +10,9 @@ Let's get started!
   3. Keep it *Public*
   4. Click the radio button to **Initialize this repository with a README**. 
   5. Click the green button **Create repository** at the bottom. 
+
+# Clone the repository to your laptop. 
+1. Open a Git Bash window (Windows) or Terminal (Mac). 
+2. Navigate to your *Desktop*. It will be something like...
+
+     cd Desktop
