@@ -24,3 +24,14 @@ Helper links to install the programs used in this course.
 * Instructions to install Git on both Windows and Mac can be found on [Git Immersion](http://gitimmersion.com/) (links on right). 
    * You should *not* install the "Graphical Clients" at this time. Just use the "Install Git" links. 
 
+### Windows
+* When you download the file and double click the file to install, you will have different options. Just take the defaults except...
+   * Select "Additional Icons for Desktop" and "Quick Launch"
+   * You will also only be installing "Git Bash" (one of the defaults). This means you will use Git in Linux-like environment. 
+* When you have installed everything, launch "Git Bash". You should get a window that looks like the Linux stuff we were doing.
+* This environment works just like Linux, so you can use all your commands here. To make sure things work, type
+         git --version
+* If it works you will see something like
+         git version 2.6.3.windows.1
+
+
