@@ -4,6 +4,7 @@ Helper links to install the programs used in this course.
 * You should use the [Anaconda](http://continuum.io/downloads) installer from Continuum Analytics. It is free and their website has plenty of information to help you install it properly on your laptop. 
 * When you install, you should get Python 2.7, ***not*** Python 3.
 
+------
 
 ## LaTeX
 ### Windows
@@ -13,6 +14,8 @@ Helper links to install the programs used in this course.
 ### Mac
 * [MacTex](https://tug.org/mactex/) distribution. [Download here.](https://tug.org/mactex/mactex-download.html)
 * If you have installed it properly, you can now open up [TeXShop](http://pages.uoregon.edu/koch/texshop/texshop.html) on your computer. This will be your primary editing environment. You may have to Search on your computer to find TeXShop, if it is not in the Launch bar. 
+
+------
 
 ## Sage Math Cloud
 * Sign up for an account [here](https://cloud.sagemath.com/).
@@ -30,8 +33,12 @@ Helper links to install the programs used in this course.
    * You will also only be installing "Git Bash" (one of the defaults). This means you will use Git in Linux-like environment. 
 * When you have installed everything, launch "Git Bash". You should get a window that looks like the Linux stuff we were doing.
 * This environment works just like Linux, so you can use all your commands here. To make sure things work, type
+
          git --version
+
 * If it works you will see something like
+
          git version 2.6.3.windows.1
+
 
 
