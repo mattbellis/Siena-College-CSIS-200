@@ -64,4 +64,38 @@ Let's get started!
 
           cat test_file.tmp
 
+# Make a change you don't want.
+1. From the website, add the following text to the test_file.tmp
 
+         These are words which I don't want to keep. 
+
+2. When you commit it (green button at bottom), add a comment along the lines of "This is a mistake".
+3. Pull these change to your lapt and look in *test_file.tmp* to verify that your words got added. 
+
+# Go back to an earlier version.
+1. On your laptop type
+ 
+         git status
+  
+   1. Do you understand this output?
+2. Now type
+
+         git log
+   1. You will see a lot of output that looks like this...
+
+         commit 99518bef2e954aa650abc271a5ebc57df4de51d8
+         Author: Matt Bellis <mbellis@siena.edu>
+         Date:   Thu Dec 3 00:42:16 2015 -0500
+         
+                 Update test.tmp
+         
+                I don't think I want this info.
+
+3. These are all versions of your edits and commits. Do you see the most recent one? The mistake? 
+4. Let's go back one edit. The really long list of numbers and words is a [hash](https://en.wikipedia.org/wiki/Hash_function) which provides a unique identifier for the changes. Find the hash associated with the older edit. When you do, type this on your laptop. 
+
+         git checkout HASH test_file.tmp
+
+5. Look inside the file and it should be back to how it was!
+
+You don't need to do the edits on the Github site to undo these changes. You can do the same thing with all the work and the commits you do on your laptop. 
