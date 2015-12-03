@@ -39,3 +39,13 @@ You will see the following lines in the notebook.
 
 Each of you will use ***IDLE*** and create a file called either **adas_code.py** or **babbages_code.py** and in those file, put one function called *read_data* and *statistics*, respectively. You can figure out what these functions do from the Notebook description. 
 
+Get it working!
+
+If you find problems with each others code, put in a bug report and make sure those reports are closed out when the bug is fixed. 
+
+## Next step...
+
+If you get this working, check with your instructor for a new data file. 
+
+Run over the new data file and make a histogram of the grades in the Notebook. 
+
