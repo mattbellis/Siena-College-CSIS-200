@@ -16,4 +16,26 @@ When Ada has created the repo, she will add Babbage as collaborator. To do this 
 
 Babbage will then edit the README.md through the web interface to give some description of the project. 
 
+Both Ada and Babbage will clone the repository so that they have a local version on their laptop. 
+
 # The project
+
+You will be writing code to read in grades from a text file and generate some simple statistics. You will use a common Jupyter notebook to run the code, but *each of you will write separate functions to do the actual computation*. 
+
+## Get the starter files.
+
+Babbage will download [this Jupyter notebook](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/EXERCISE_github_collaboration_notebook_COMPLETED.ipynb) and add/commit/push it to the repo. 
+
+Ada will download [this data file of grades](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/grades1.csv) and add/commit/push it to the repo. 
+
+Both Babbage and Ada should pull the updates to their laptops and open the notebook. 
+
+## Write the functions
+
+You will see the following lines in the notebook. 
+
+          from adas_code import read_data
+          from babbages_code import statistics
+
+Each of you will use ***IDLE*** and create a file called either **adas_code.py** or **babbages_code.py** and in those file, put one function called *read_data* and *statistics*, respectively. You can figure out what these functions do from the Notebook description. 
+
