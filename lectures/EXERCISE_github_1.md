@@ -83,13 +83,13 @@ Let's get started!
          git log
    1. You will see a lot of output that looks like this...
 
-         commit 99518bef2e954aa650abc271a5ebc57df4de51d8
-         Author: Matt Bellis <mbellis@siena.edu>
-         Date:   Thu Dec 3 00:42:16 2015 -0500
-         
-                 Update test.tmp
-         
-                I don't think I want this info.
+           commit 99518bef2e954aa650abc271a5ebc57df4de51d8
+           Author: Matt Bellis <mbellis@siena.edu>
+           Date:   Thu Dec 3 00:42:16 2015 -0500
+           
+           Update test.tmp
+           
+           I don't think I want this info.
 
 3. These are all versions of your edits and commits. Do you see the most recent one? The mistake? 
 4. Let's go back one edit. The really long list of numbers and words is a [hash](https://en.wikipedia.org/wiki/Hash_function) which provides a unique identifier for the changes. Find the hash associated with the older edit. When you do, type this on your laptop. 
