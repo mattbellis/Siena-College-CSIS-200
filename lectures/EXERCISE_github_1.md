@@ -83,7 +83,7 @@ Let's get started!
          git log
    1. You will see a lot of output that looks like this...
 
-'''shell
+'''ShellSession
 commit 99518bef2e954aa650abc271a5ebc57df4de51d8
 Author: Matt Bellis <mbellis@siena.edu>
 Date:   Thu Dec 3 00:42:16 2015 -0500
