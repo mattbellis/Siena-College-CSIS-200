@@ -72,7 +72,7 @@ Let's get started!
 2. When you commit it (green button at bottom), add a comment along the lines of "This is a mistake".
 3. Pull these change to your lapt and look in *test_file.tmp* to verify that your words got added. 
 
-# Go back to an earlier version.
+# Go back to an earlier version (undo your edits)
 1. On your laptop type
  
          git status
