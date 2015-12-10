@@ -52,4 +52,10 @@ Helper links to install the programs used in this course.
 
 
 
+--------
 
+## Processing
+[Download here](https://processing.org/download/)
+
+or use this online editor to just try it out!
+[Sketchpad](http://sketchpad.cc/XQjn0fAQi8)
