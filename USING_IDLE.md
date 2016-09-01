@@ -1,3 +1,32 @@
+# Opening IDLE
+
+Once the Anaconda Python distribution is installed, you should have access to the editor, IDLE. To open IDLE...
+
+## Mac
+* Open a Terminal and type
+
+    idle
+
+Or...
+
+* Click on the Spotlight icon (the magnifying glass) in the upper right of your screen. 
+* Start typing "idle" in the search window. 
+* Double-click on the appropriate icon. 
+
+## Windows
+
+* Press the "Windows key" and "r" at the same time (or search computer for "run")
+* In the "Run" window type: "cmd" (no quotes)
+* When Command Prompt comes up, type: "start idle"
+
+Or...
+
+* Click on the Windows Start button (lower left on many computers)
+* In the "Search" window bar (at the bottom) start typing "idle"
+* Click on the appropriate search result, either "IDLE" or "IDLE (Python GUI)"
+
+
+
 When IDLE is first opened, you have access to the [Python interpreter](https://docs.python.org/2/tutorial/interpreter.html).
 That is, everything you type is exectuted a Python in an interactive environment. 
 ```
