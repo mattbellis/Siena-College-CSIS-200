@@ -26,6 +26,7 @@ Or...
 * Click on the appropriate search result, either "IDLE" or "IDLE (Python GUI)"
 
 
+# Using IDLE 
 
 When IDLE is first opened, you have access to the [Python interpreter](https://docs.python.org/2/tutorial/interpreter.html).
 That is, everything you type is exectuted a Python in an interactive environment. 
