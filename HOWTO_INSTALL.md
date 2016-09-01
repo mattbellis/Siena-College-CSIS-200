@@ -1,8 +1,8 @@
 Helper links to install the programs used in this course.
 
 ## Python
-* You should use the [Anaconda](http://continuum.io/downloads) installer from Continuum Analytics. It is free and their website has plenty of information to help you install it properly on your laptop. 
-* WHEN GO TO INSTALL THE PROGRAM, YOU SHOULD INSTALL Python 2.7, ***NOT*** Python 3.
+* You should use the [Anaconda installer from Continuum Analytics](http://continuum.io/downloads). It is free and their website has plenty of information to help you install it properly on your laptop. 
+* WHEN GO TO INSTALL THE PROGRAM, YOU SHOULD INSTALL Python 2.7, ***NOT*** Python 3.5.
 
 It may take up to an hour to download, depending on the wireless network. Once you download it, it will either start installing itself, or you can double-click on the downloaded file and follow the instructions. 
 
