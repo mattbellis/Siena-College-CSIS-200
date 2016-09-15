@@ -19,7 +19,7 @@ A course taught at the University of Manchester by Vedran Sego.
 
 ## Jupyter/IPython
 * [Launching the Jupyter/IPython notebook and setting the default folder](http://jupyter-notebook-beginner-guide.readthedocs.org/en/latest/execute.html)
-* [Bryn Maywr's Jupyter Notebook Users Manual](http://jupyter.cs.brynmawr.edu/hub/dblank/public/Jupyter%20Notebook%20Users%20Manual.ipynb). A very detailed overview of the features of the Notebook. 
+* [Bryn Maywr's Jupyter Notebook Users Manual](https://athena.brynmawr.edu/jupyter/hub/dblank/public/Jupyter%20Notebook%20Users%20Manual.ipynb). A very detailed overview of the features of the Notebook. 
 
 ## Other IPython notebooks
 
