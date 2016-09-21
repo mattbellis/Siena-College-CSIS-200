@@ -31,6 +31,11 @@ To download any of these lectures, you can do this:
   * [Lecture notes](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_intro_to_Jupyter_notebook.ipynb)
   * [Bryn Mawr comprehensive Jupyter users' manual](http://jupyter.cs.brynmawr.edu/hub/dblank/public/Jupyter%20Notebook%20Users%20Manual.ipynb)
   * [In-class lab](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/INCLASS_using_the_notebook.ipynb)
+* Review Notebook, printing, general coding, etc.
+  * [Review 0](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/INCLASS_Review_printing_and_assignment_0.ipynb)
+  * [Review 1](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/INCLASS_Review_printing_and_assignment_1.ipynb)
+  * [Review 2](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/INCLASS_Review_printing_and_assignment_2.ipynb)
+  * [Review 3](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/INCLASS_Review_printing_and_assignment_3.ipynb)
 * Functions 
   * [Lecture notes.](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_functions.ipynb)
   * LPTHW chapters [A](http://learnpythonthehardway.org/book/ex18.html),[B](http://learnpythonthehardway.org/book/ex19.html),[C](http://learnpythonthehardway.org/book/ex21.html)
