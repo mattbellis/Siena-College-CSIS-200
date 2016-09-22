@@ -37,7 +37,7 @@ To download any of these lectures, you can do this:
   * [Review 2](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/INCLASS_Review_printing_and_assignment_2.ipynb)
   * [Review 3](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/INCLASS_Review_printing_and_assignment_3.ipynb)
 * Functions 
-  * [Lecture notes.](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_functions.ipynb)
+  * [Lecture notes.](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_functions_v2.ipynb)
   * LPTHW chapters [A](http://learnpythonthehardway.org/book/ex18.html),[B](http://learnpythonthehardway.org/book/ex19.html),[C](http://learnpythonthehardway.org/book/ex21.html)
   * [In-class lab](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/INCLASS_functions_v2.ipynb)
 * Lists
