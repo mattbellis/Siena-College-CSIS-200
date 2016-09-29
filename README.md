@@ -40,11 +40,11 @@ To download any of these lectures, you can do this:
   * [Lecture notes.](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_functions_v2.ipynb)
   * LPTHW chapters [A](http://learnpythonthehardway.org/book/ex18.html),[B](http://learnpythonthehardway.org/book/ex19.html),[C](http://learnpythonthehardway.org/book/ex21.html)
   * [In-class lab](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/INCLASS_functions_v2.ipynb)
+  * [Lecture notes - Part 2.](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_functions_Part2.ipynb)
 * Lists
   * [Lecture notes](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_lists.ipynb)
   * LPTHW chapters. [A](http://learnpythonthehardway.org/book/ex32.html), [B](http://learnpythonthehardway.org/book/ex33.html),[C](http://learnpythonthehardway.org/book/ex34.html)
-  * [In-class lab](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/INCLASS_lists.ipynb)
-  * [Lecture notes - Part 2.](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_functions_Part2.ipynb)
+  * [In-class lab](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/INCLASS_lists.ipynb)  
 * Loops. 
   * [Lecture notes.](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_loops.ipynb)
   * LPTHW chapters [A](http://learnpythonthehardway.org/book/ex32.html),[B](http://learnpythonthehardway.org/book/ex33.html)
