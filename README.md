@@ -118,6 +118,7 @@ To download any of these lectures, you can do this:
 ### Version control
 * Version control and Git
   * Lecture notes on Classroom site.
+  * [Software carpetry on version control](http://swcarpentry.github.io/git-novice/01-basics/)
 * Git/Github
   * Make sure you [install git](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/HOWTO_INSTALL.md) and sign up for an account on [Github](https://github.com/).
   * [Lecture on first exercise with Git/Github](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/EXERCISE_github_1.md)
