@@ -54,8 +54,7 @@ To download any of these lectures, you can do this:
   * LPTHW chapters [A](http://learnpythonthehardway.org/book/ex29.html),[B](http://learnpythonthehardway.org/book/ex30.html),[C](http://learnpythonthehardway.org/book/ex31.html)
   * [In-class lab](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/INCLASS_conditionals.ipynb)
 * More complicated functions 
-  * [Lecture notes.](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_functions.ipynb)
-  * [In-class lab](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/INCLASS_functions.ipynb)
+  * [In-class lab](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/INCLASS_functions_more_complex.ipynb)
 
 [Review 1](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/REVIEW_printing_assignment_loops_lists_conditionals_functions_PART1.ipynb)
 
