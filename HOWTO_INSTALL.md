@@ -26,6 +26,15 @@ http://conda.pydata.org/docs/intro.html
 * [MacTex](https://tug.org/mactex/) distribution. [Download here.](https://tug.org/mactex/mactex-download.html)
 * If you have installed it properly, you can now open up [TeXShop](http://pages.uoregon.edu/koch/texshop/texshop.html) on your computer. This will be your primary editing environment. You may have to Search on your computer to find TeXShop, if it is not in the Launch bar. 
 
+## Online (cloud) options
+
+If you don't want to install LaTeX on your laptop, there are some online options as well. It just means you need an internet connection to get work done. However, it can save you time with the setup and still allow you to download the finished file (PDF). 
+
+* [Overleaf](https://www.overleaf.com/)
+* [Sage Math Cloud](https://cloud.sagemath.com/)
+
+These are all free. If you want to use one of them, create an account and learn how to upload a file or create one from scratch, and then turn it into a PDF file. 
+
 ------
 
 # Sage Math Cloud
