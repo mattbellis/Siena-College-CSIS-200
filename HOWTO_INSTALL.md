@@ -24,7 +24,7 @@ http://conda.pydata.org/docs/intro.html
 
 ## Mac
 * [MacTex](https://tug.org/mactex/) distribution. [Download here.](https://tug.org/mactex/mactex-download.html)
-* If you have installed it properly, you can now open up [TeXShop](http://pages.uoregon.edu/koch/texshop/texshop.html) on your computer. This will be your primary editing environment. You may have to Search on your computer to find TeXShop, if it is not in the Launch bar. 
+* If you have installed it properly, you can now open up [TeXShop](http://pages.uoregon.edu/koch/texshop/texshop.html) on your computer. This will be your primary editing environment. You may have to Search (Spotlight) on your computer to find TeXShop, if it is not in the Launch bar. 
 
 ## Online (cloud) options
 
