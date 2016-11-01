@@ -32,13 +32,13 @@ For the first step, you will create the simplest LaTeX document by following the
 
 # Compiling a bigger document. 
 
-* Create a new **Folder** under your **CSIS-200-F15** folder called **articletemplate**.
+* Create a new **Folder** under your **CSIS200** folder called **articletemplate**.
 * Download [article_template.tex](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/article_template.tex) and save it in this new directory. Make sure the file is named "articletemplate.tex"
 * Compile it! If it doesn't work, check with the instructor.
 
 # Compiling a journal article. 
 
-* Create a new **Folder** under your **CSIS-200-F15** folder called **journaltemplate**.
+* Create a new **Folder** under your **CSIS200** folder called **journaltemplate**.
 * Download [cms_higgs.png](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/cms_higgs.png) and [journal_article_template.tex](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/journal_article_template.tex) and move both of them to this new directory. Make sure the files are named as they are here. 
 * Compile it! If it doesn't work, check with the instructor. 
 
