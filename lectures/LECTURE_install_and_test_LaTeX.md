@@ -12,7 +12,7 @@ Open these programs up either from an icon on your desktop or by using the Searc
 
 For the first step, you will create the simplest LaTeX document by following these steps.
 
-* Create a new **Folder** under your **CSIS-200-F15** folder called *firstlatex*. 
+* Create a new **Folder** under your **CSIS200** folder (or whatever you named it) called *firstlatex*. 
 * From your LaTeX editor, open a *File --> New Document* and type the following in the editor.
     
         \documentclass[]{article}
