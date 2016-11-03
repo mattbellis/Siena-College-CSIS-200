@@ -39,7 +39,7 @@ For the first step, you will create the simplest LaTeX document by following the
 # Compiling a journal article. 
 
 * Create a new **Folder** under your **CSIS200** folder called **journaltemplate**.
-* Download [cms_higgs.png](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/cms_higgs.png) and [journal_article_template.tex](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/journal_article_template.tex) and move both of them to this new directory. Make sure the files are named as they are here. 
+* Download [cms_higgs.png](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/cms_higgs.png), [mybibliography.bib](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/mybibliography.bib), and [journal_article_template.tex](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/journal_article_template.tex) and move both of them to this new directory. Make sure the files are named as they are here. 
 * Compile it! If it doesn't work, check with the instructor. 
 
    When you have compiled the journal article, upload it to the Assignment for this on the Classroom site. This will ***not*** be graded, but it will allow me to see who was successful with the installation and testing. Next class, we will begin to learn more about the typesetting power of LaTeX!
