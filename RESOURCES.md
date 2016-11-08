@@ -42,3 +42,7 @@ A course taught at the University of Manchester by Vedran Sego.
   * [What is it?](https://en.wikipedia.org/wiki/SageMathCloud)
 
     "*SageMathCloud is a cloud computing platform designed for computational mathematics. Part of the Sage project, it supports editing of Sage worksheets, LaTeX documents, and IPython notebooks. SageMathCloud runs an Ubuntu Linux environment that can be interacted with through a terminal, additionally giving access to most of the capabilities of Linux.[1] It can be freely accessed online and requires an account to use.*"
+
+## Git
+
+* [Git for humans](https://speakerdeck.com/alicebartlett/git-for-humans). A talk about what git is. 
