@@ -47,4 +47,4 @@ Once the class has caught up to this point, follow along with the instructor and
 * Delete some of these files. 
 * Make a new directory.
 * Remove that directory. 
-* Edit a file using the [pico editor](https://www.cs.colostate.edu/helpdocs/pico.html) or [nano editor](http://mintaka.sdsu.edu/reu/nano.html). 
+* Edit a file using the [nano editor](http://www.howtogeek.com/howto/42980/the-beginners-guide-to-nano-the-linux-command-line-text-editor/). 
