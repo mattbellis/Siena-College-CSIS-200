@@ -114,6 +114,7 @@ To download any of these lectures, you can do this:
 * [Exercise on navigation](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/EXERCISE_Linux_navigate_hello_world.md)
   * [linux_hello_world.tgz](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/linux_hello_world.tgz)
 * [Assignment instructions for navigation, edit, and Python execution](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/EXERCISE_Linux_navigation_assignment.md)
+  * [linux_exercise_navigation.tgz](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/linux_exercise_navigation.tgz)
 * [Exercise on command-line options to Python and shell scripts](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/EXERCISE_Linux_shell_scripts_command_line_options.md)
 
 ### Version control
