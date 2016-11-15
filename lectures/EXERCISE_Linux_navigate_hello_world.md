@@ -19,9 +19,16 @@ What files are in this directory?
     ls
     ls -l 
 
-Run the following command. This will download a tar archive (similar to a zip file), with directories and files in it. 
+Upload a tar archive (similar to a zip file), with directories and files in it. 
 
-    wget https://goo.gl/Lcm2oR -O linux_files.tgz 
+1. Upload the necessary files for this exercise.
+    1. Download [linux_hello_world.tgz](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/linux_hello_world.tgz) to your laptop.
+    2. Upload it to your SageMathCloud project by
+        1. Clicking on "+ New" 
+        2. Uploading the file through the interface provided.
+        3. Go back go "Files" (upper left)
+        4. Click on "myterminal.term"
+        
 
 Unpack (actually untar) this file with the following command. 
 
