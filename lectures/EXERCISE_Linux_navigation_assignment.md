@@ -8,7 +8,7 @@
 
 5. Upload the necessary files for this exercise.
 
-    1. Download [linux_hello_world.tgz](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/linux_hello_world.tgz) to your laptop.
+    1. Download [linux_exercise_navigation.tgz](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/linux_exercise_navigation.tgz) to your laptop.
 
     2. Upload it to your SageMathCloud project by
         1. Clicking on "+ New" 
