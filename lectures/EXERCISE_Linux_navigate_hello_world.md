@@ -32,7 +32,7 @@ Upload a tar archive (similar to a zip file), with directories and files in it.
 
 Unpack (actually untar) this file with the following command. 
 
-    tar -zxf linux_files.tgz
+    tar -zxf linux_hello_world.tgz
 
 What files/directories do you have now?
 
