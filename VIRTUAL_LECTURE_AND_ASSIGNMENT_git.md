@@ -17,7 +17,7 @@ We will also go over these slides after the break.
 
 * [What is verson control?](https://git-scm.com/video/what-is-version-control) (6 min)
 * [Git and Github for poets (Part I)](https://www.youtube.com/watch?v=BCQHnlnPusY) (14 min)
-* [Git and Github for poets (Part II)](https://www.youtube.com/watch?v=BCQHnlnPusY) (12 min)
+* [Git and Github for poets (Part II)](https://www.youtube.com/watch?v=oPpnCh7InLY&t=3s) (12 min)
 
 ## CodeAcademy
 
