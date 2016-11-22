@@ -13,4 +13,29 @@ Please read through [my slides](https://docs.google.com/a/siena.edu/presentation
 
 We will also go over these slides after the break. 
 
-## Video lecture 
+## Video lectures
+
+* [What is verson control?](https://git-scm.com/video/what-is-version-control) (6 min)
+* [Git and Github for poets (Part I)](https://www.youtube.com/watch?v=BCQHnlnPusY) (14 min)
+* [Git and Github for poets (Part II)](https://www.youtube.com/watch?v=BCQHnlnPusY) (12 min)
+
+## CodeAcademy
+
+Do the first assignment on [CodeAcademy's lesson on Git](https://www.codecademy.com/learn/learn-git), "Basic Git Workflow".
+
+When you have done this, upload an appropriate screenshot to the Classroom assignment. This will count for 50% of your grade
+on this assignment. 
+
+## Sign up for Github 
+
+Go to [Github](https://github.com/) and sign up for a free account. When you have done this, please add your name and your new
+Github account name to this spreadsheet. This will count for 50% of your grade for this assignment. 
+
+https://docs.google.com/a/siena.edu/spreadsheets/d/1o8qs3H7R0u2EUmYOfu-dESDZswghRtW5eAt5zqZalAs/edit?usp=sharing
+
+## My lecture slides 
+
+Please go back and re-read through [my slides](https://docs.google.com/a/siena.edu/presentation/d/1acaGj6qsbE5cUozbcP3Gr9z1oonDjplUr0hDueif8GM/edit?usp=sharing) on these topics. See if they make any more sense. 
+
+Good luck! And have a great Thanksgiving break!
+
