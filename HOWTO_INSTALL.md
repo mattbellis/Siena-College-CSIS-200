@@ -59,7 +59,7 @@ These are all free. If you want to use one of them, create an account and learn 
 
 * If it works you will see something like
 
-         git version 2.6.3.windows.1
+         git version 2.10.2.windows.1
 
 ## Mac
 * Download the file and double click the file to install, if it doesn't automatically. 
@@ -69,7 +69,7 @@ These are all free. If you want to use one of them, create an account and learn 
 
 * If it works you will see something like
 
-         git version 2.6.2
+         git version 2.10.1
 
 
 
