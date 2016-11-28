@@ -17,14 +17,16 @@ Let's get started!
 
          cd Desktop
 
-3. Make a new directory here to hold your repositories.
+3. Make a new directory here to hold your repositories and go into (change directory) it. 
 
          mkdir github_repos
+         cd github_repos
 
-4. Clone (copy over) the repository from Github. To do this, you will need to get the URL of the repo on Github. 
-  1. On the repo website (on Github), find the button that says either **HTTPS** or **SSH** and select (if it is not already) **HTTPS**.
-  2. Highlight (in preparation for copying it) the text next to it. Something like "https://github..." You can Ctrl-c it, just in case it works on your laptop. 
-  3. Go back your Git Bash/Terminal window and type the following, replacing the URL with your own. 
+4. Clone (copy over) the repository from Github. 
+  1. Click on the green ***Clone or Download*** button !(https://help.github.com/assets/images/help/repository/clone-repo-clone-url-button.png)
+  2. Select ***Clone with HTTPS***. If it is not showing, click on ***Use HTTPS***. 
+  3. Highlight (in preparation for copying it) the text next to it. Something like "https://github..." You can Ctrl-c it, just in case it works on your laptop. 
+  3. Go back your Git Bash/Terminal window and type *git clone* and then paste the URL that you copied from the website. It should look something like the following, although of course the URL will have your Username in here.  
 
           git clone https://github.com/mattbellis/hello_world.git
 
