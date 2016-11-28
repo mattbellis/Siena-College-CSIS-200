@@ -5,6 +5,7 @@ Sign up for a free account on [Github](https://github.com/)
 # Set up things on your laptop
 
 * Go to the [Github help guide](https://help.github.com/articles/set-up-git/)
+  * You should have already downloaded and installed git by this point. 
 * Open up a Git Bash window (Windows) or Terminal (Mac) in which to type git commands. 
 * Follow the instructions on the website to make sure your version of git is all configured to work with Github.
    * If you come across anything on the Github site that mentions installing the **Github Desktop**, you do not need to do this. 
