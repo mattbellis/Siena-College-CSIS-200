@@ -23,7 +23,7 @@ Let's get started!
          cd github_repos
 
 4. Clone (copy over) the repository from Github. 
-  1. Click on the green ***Clone or Download*** button !(https://help.github.com/assets/images/help/repository/clone-repo-clone-url-button.png)
+  1. Click on the green ***Clone or Download*** button ![Clone or Download button](https://help.github.com/assets/images/help/repository/clone-repo-clone-url-button.png)
   2. Select ***Clone with HTTPS***. If it is not showing, click on ***Use HTTPS***. 
   3. Highlight (in preparation for copying it) the text next to it. Something like "https://github..." You can Ctrl-c it, just in case it works on your laptop. 
   3. Go back your Git Bash/Terminal window and type *git clone* and then paste the URL that you copied from the website. It should look something like the following, although of course the URL will have your Username in here.  
