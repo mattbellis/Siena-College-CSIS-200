@@ -23,20 +23,21 @@ Remember, uploading it to Github is *part* of the final project, so you need to 
  ```
  git add FILENAME1 FILENAME2 FILENAME3...
  ```
- 
- 5. When you have the final versions there, commit them to the repository with an appropriate message and using *-a* for all files. 
+
+5. When you have the final versions there, commit them to the repository with 
+ an appropriate message and using *-a* for all files. 
  
  ```
  git commit -m "A COMMIT MESSAGE OF YOUR CHOICE" -a
  ```
  
- 6. Push everything up to the Github repository. 
+6. Push everything up to the Github repository. 
  
  ```
  git push
  ```
  
- 7. Check on Github to make sure all your files are there!
+7. Check on Github to make sure all your files are there!
 
     
 
