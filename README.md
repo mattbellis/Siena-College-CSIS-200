@@ -1,6 +1,10 @@
 # Siena-College-CSIS-200
 CSIS 200: Software Tools for Physicists. An introductory programming course for Physics and other Science majors. 
 
+[Course overview (slides)](https://docs.google.com/presentation/d/1ZBMC0el0cLpXgSTvQZzgAkkpmSNwv39YWMEodUbRyxQ/edit?usp=sharing)
+
+[Learn to program in any language (slides)](https://docs.google.com/presentation/d/1PWDfDTinIrdGAGW6J_StaVYsecGKgb7LlljjvJzDK0s/edit?usp=sharing)
+
 # Table of Contents
 1. [Textbook](#textbook)
 2. [Lectures](#lectures)
@@ -18,13 +22,15 @@ Below is a list of topics that we will be covering in class. *It is likely that 
 
 The pace of the course will be dictated by how well the majority of the class is developing competency with the material. However, you should always feel free to plow ahead on your own! There are a ton of great [resources](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/RESOURCES.md) out there and you can always learn a lot from self-guided study. 
 
-To download any of these lectures, you can do this:
+To download any of these starter lecture skeletons, you can do this:
 * Click on the link.
 * Click on the Raw button in the upper right. 
 * Ctrl-s to save the file to your laptop. 
 
 ### Python
 * Working with Python (the interpreter, command line, IDLE). Assignment (int, float, str). Printing.
+  * [Editors (slides)](https://docs.google.com/presentation/d/1vbbOKu1HB10GNUs7_uMZqCZUM0WhLT4-FFXjwMiHwlI/edit?usp=sharing)
+  * [Assignment (slides)](https://docs.google.com/presentation/d/1-y5KYYnq7ncdyy8k70mTJqXnr2GdT4EjuEDs7XeVBmk/edit?usp=sharing)
   * [Lecture notes](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_printing_and_assignments.py).
   * LPTHW chapters. [A](http://learnpythonthehardway.org/book/ex4.html),[B](http://learnpythonthehardway.org/book/ex5.html),[C](http://learnpythonthehardway.org/book/ex6.html),[D](http://learnpythonthehardway.org/book/ex7.html)
 * IPython/Jupyter notebooks
@@ -37,19 +43,23 @@ To download any of these lectures, you can do this:
   * [Review 2](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/INCLASS_Review_printing_and_assignment_2.ipynb)
   * [Review 3](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/INCLASS_Review_printing_and_assignment_3.ipynb)
 * Functions 
+  * [Functions (slides)](https://docs.google.com/presentation/d/1_HWyAkdMDT16M-5hJ46SVjaL68Ql_swESLVxYGdkSdM/edit?usp=sharing)
   * [Lecture notes.](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_functions_v2.ipynb)
   * LPTHW chapters [A](http://learnpythonthehardway.org/book/ex18.html),[B](http://learnpythonthehardway.org/book/ex19.html),[C](http://learnpythonthehardway.org/book/ex21.html)
   * [In-class lab](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/INCLASS_functions_v2.ipynb)
   * [Lecture notes - Part 2.](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_functions_Part2.ipynb)
 * Lists
+  * [Lists (slides)](https://docs.google.com/presentation/d/1KVPO2cINUivHNNisxbZNN6ITmVRx2UxRCeuLUzjm04o/edit?usp=sharing)
   * [Lecture notes](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_lists.ipynb)
   * LPTHW chapters. [A](http://learnpythonthehardway.org/book/ex32.html), [B](http://learnpythonthehardway.org/book/ex33.html),[C](http://learnpythonthehardway.org/book/ex34.html)
   * [In-class lab](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/INCLASS_lists.ipynb)  
 * Loops. 
+  * [Loops (slides)](https://docs.google.com/presentation/d/1W4fk_Y2KRHkUMFMKl4xSQGrVcwR_fgC7K5h5oBx5nOg/edit?usp=sharing)
   * [Lecture notes.](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_loops.ipynb)
   * LPTHW chapters [A](http://learnpythonthehardway.org/book/ex32.html),[B](http://learnpythonthehardway.org/book/ex33.html)
   * [In-class lab](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/INCLASS_loops.ipynb)
 * Conditionals. 
+  * [Conditionals (slides)](https://docs.google.com/presentation/d/1DDqShXR5WQCZuazHYl5hNpv3KHlQqY4maaMUkw2xl5c/edit?usp=sharing)
   * [Lecture notes.](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_conditionals.ipynb)
   * LPTHW chapters [A](http://learnpythonthehardway.org/book/ex29.html),[B](http://learnpythonthehardway.org/book/ex30.html),[C](http://learnpythonthehardway.org/book/ex31.html)
   * [In-class lab](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/INCLASS_conditionals.ipynb)
@@ -62,6 +72,7 @@ To download any of these lectures, you can do this:
 
 
 * Importing modules
+  * [Modules (slides)](https://docs.google.com/presentation/d/1laVXqNrO7Kcvw4Gnkx4SCRVF7PnBUWq7GEgzLaOz3cg/edit?usp=sharing)
   * [Lecture notes.](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_modules.ipynb)
   * LPTHW chapters [A](http://learnpythonthehardway.org/book/ex40.html)
 * Numpy and scipy
@@ -92,6 +103,7 @@ To download any of these lectures, you can do this:
 
 
 ### LaTeX
+* [LaTeX (slides)(https://docs.google.com/presentation/d/1mDGD3iZMJuXInxlJF15uV6bChWf_FA33b8VOiESptHo/edit?usp=sharing)
 * [The Beauty of LaTeX](http://nitens.org/taraborelli/latex)
 * Installation and checking installation
   * [Installation](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/HOWTO_INSTALL.md)
@@ -101,6 +113,7 @@ To download any of these lectures, you can do this:
   * [Image of Siena](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/siena_photo.png)
 
 ### Linux
+* [Linux (slides)](https://docs.google.com/presentation/d/1W_mzRvCL30wdW7Or7tgzt_mjde_1v0AMt52aHh6fNCk/edit?usp=sharing)
 * Reading from [Simple Wikipedia](https://simple.wikipedia.org/wiki/Main_Page)
   * [Operating system](https://simple.wikipedia.org/wiki/Operating_system)
   * [Unix](https://simple.wikipedia.org/wiki/UNIX)
@@ -118,6 +131,7 @@ To download any of these lectures, you can do this:
 * [Exercise on command-line options to Python and shell scripts](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/EXERCISE_Linux_shell_scripts_command_line_options.md)
 
 ### Version control
+* [Version control/git/Github (slides)](https://docs.google.com/presentation/d/1acaGj6qsbE5cUozbcP3Gr9z1oonDjplUr0hDueif8GM/edit?usp=sharing)
 * Version control and Git
   * Lecture notes on Classroom site.
   * [Software carpetry on version control](http://swcarpentry.github.io/git-novice/01-basics/)
@@ -129,6 +143,7 @@ To download any of these lectures, you can do this:
 ### Other Languages
 * C
 * Processing
+  * [How to program in any language: Processing (slides)](https://docs.google.com/presentation/d/1eYLmm8UoaulpevZ1BHjXLMlex-JabAngx4-2D3LZ2dQ/edit?usp=sharing)
 * R
 * MATLAB/Octave
 
