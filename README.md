@@ -103,7 +103,7 @@ To download any of these starter lecture skeletons, you can do this:
 
 
 ### LaTeX
-* [LaTeX (slides)(https://docs.google.com/presentation/d/1mDGD3iZMJuXInxlJF15uV6bChWf_FA33b8VOiESptHo/edit?usp=sharing)
+* [LaTeX (slides)](https://docs.google.com/presentation/d/1mDGD3iZMJuXInxlJF15uV6bChWf_FA33b8VOiESptHo/edit?usp=sharing)
 * [The Beauty of LaTeX](http://nitens.org/taraborelli/latex)
 * Installation and checking installation
   * [Installation](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/HOWTO_INSTALL.md)
