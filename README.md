@@ -32,7 +32,7 @@ To download any of these starter lecture skeletons, you can do this:
   * [Editors (slides)](https://docs.google.com/presentation/d/1vbbOKu1HB10GNUs7_uMZqCZUM0WhLT4-FFXjwMiHwlI/edit?usp=sharing)
   * [Assignment (slides)](https://docs.google.com/presentation/d/1-y5KYYnq7ncdyy8k70mTJqXnr2GdT4EjuEDs7XeVBmk/edit?usp=sharing)
   * [Lecture notes](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_printing_and_assignments.py).
-  * LPTHW chapters. [A](http://shop.learncodethehardway.org/paid/python3/ex4.html),[B](http://learnpythonthehardway.org/book/ex5.html),[C](http://learnpythonthehardway.org/book/ex6.html),[D](http://learnpythonthehardway.org/book/ex7.html)
+  * LPTHW chapters. [A](http://shop.learncodethehardway.org/paid/python3/ex4.html),[B](http://shop.learncodethehardway.org/paid/python3/ex5.html),[C](http://shop.learncodethehardway.org/paid/python3/ex6.html),[D](http://shop.learncodethehardway.org/paid/python3/ex7.html)
 * IPython/Jupyter notebooks
   * [Lecture notes](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_intro_to_Jupyter_notebook.ipynb)
   * [Bryn Mawr comprehensive Jupyter users' manual](http://jupyter.cs.brynmawr.edu/hub/dblank/public/Jupyter%20Notebook%20Users%20Manual.ipynb)
@@ -45,23 +45,23 @@ To download any of these starter lecture skeletons, you can do this:
 * Functions 
   * [Functions (slides)](https://docs.google.com/presentation/d/1_HWyAkdMDT16M-5hJ46SVjaL68Ql_swESLVxYGdkSdM/edit?usp=sharing)
   * [Lecture notes.](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_functions_v2.ipynb)
-  * LPTHW chapters [A](http://learnpythonthehardway.org/book/ex18.html),[B](http://learnpythonthehardway.org/book/ex19.html),[C](http://learnpythonthehardway.org/book/ex21.html)
+  * LPTHW chapters [A](http://shop.learncodethehardway.org/paid/python3/ex18.html),[B](http://shop.learncodethehardway.org/paid/python3/ex19.html),[C](http://shop.learncodethehardway.org/paid/python3/ex21.html)
   * [In-class lab](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/INCLASS_functions_v2.ipynb)
   * [Lecture notes - Part 2.](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_functions_Part2.ipynb)
 * Lists
   * [Lists (slides)](https://docs.google.com/presentation/d/1KVPO2cINUivHNNisxbZNN6ITmVRx2UxRCeuLUzjm04o/edit?usp=sharing)
   * [Lecture notes](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_lists.ipynb)
-  * LPTHW chapters. [A](http://learnpythonthehardway.org/book/ex32.html), [B](http://learnpythonthehardway.org/book/ex33.html),[C](http://learnpythonthehardway.org/book/ex34.html)
+  * LPTHW chapters. [A](http://shop.learncodethehardway.org/paid/python3/ex32.html), [B](http://shop.learncodethehardway.org/paid/python3/ex33.html),[C](http://shop.learncodethehardway.org/paid/python3/ex34.html)
   * [In-class lab](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/INCLASS_lists.ipynb)  
 * Loops. 
   * [Loops (slides)](https://docs.google.com/presentation/d/1W4fk_Y2KRHkUMFMKl4xSQGrVcwR_fgC7K5h5oBx5nOg/edit?usp=sharing)
   * [Lecture notes.](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_loops.ipynb)
-  * LPTHW chapters [A](http://learnpythonthehardway.org/book/ex32.html),[B](http://learnpythonthehardway.org/book/ex33.html)
+  * LPTHW chapters [A](http://shop.learncodethehardway.org/paid/python3/ex32.html),[B](http://shop.learncodethehardway.org/paid/python3/ex33.html)
   * [In-class lab](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/INCLASS_loops.ipynb)
 * Conditionals. 
   * [Conditionals (slides)](https://docs.google.com/presentation/d/1DDqShXR5WQCZuazHYl5hNpv3KHlQqY4maaMUkw2xl5c/edit?usp=sharing)
   * [Lecture notes.](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_conditionals.ipynb)
-  * LPTHW chapters [A](http://learnpythonthehardway.org/book/ex29.html),[B](http://learnpythonthehardway.org/book/ex30.html),[C](http://learnpythonthehardway.org/book/ex31.html)
+  * LPTHW chapters [A](http://shop.learncodethehardway.org/paid/python3/ex29.html),[B](http://shop.learncodethehardway.org/paid/python3/ex30.html),[C](http://shop.learncodethehardway.org/paid/python3/ex31.html)
   * [In-class lab](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/INCLASS_conditionals.ipynb)
 
 [Review 1](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/REVIEW_printing_assignment_loops_lists_conditionals_functions_PART1.ipynb)
@@ -74,7 +74,7 @@ To download any of these starter lecture skeletons, you can do this:
 * Importing modules
   * [Modules (slides)](https://docs.google.com/presentation/d/1laVXqNrO7Kcvw4Gnkx4SCRVF7PnBUWq7GEgzLaOz3cg/edit?usp=sharing)
   * [Lecture notes.](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_modules.ipynb)
-  * LPTHW chapters [A](http://learnpythonthehardway.org/book/ex40.html)
+  * LPTHW chapters [A](http://shop.learncodethehardway.org/paid/python3/ex40.html)
 * Numpy and scipy
   * [Lecture notes.](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_numpy_scipy.ipynb)
   * [Numpy](http://www.numpy.org/)
@@ -85,7 +85,7 @@ To download any of these starter lecture skeletons, you can do this:
   * [Matplotlib](http://matplotlib.org/)
 * Reading from and writing to files
   * [Lecture notes.](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_file_reading_writing.ipynb)
-  * LPTHW chapters [A](http://learnpythonthehardway.org/book/ex15.html),[B](http://learnpythonthehardway.org/book/ex16.html),[C](http://learnpythonthehardway.org/book/ex17.html)
+  * LPTHW chapters [A](http://shop.learncodethehardway.org/paid/python3/ex15.html),[B](http://shop.learncodethehardway.org/paid/python3/ex16.html),[C](http://shop.learncodethehardway.org/paid/python3/ex17.html)
   * [In-class lab](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/INCLASS_file_reading_writing.ipynb)
   * Data files. You will need these files to run the Lecture and In-class lab notebooks. When you download the files, make sure that you copy them to the same directory that the notebooks are in. 
     * [data0.dat](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/data0.dat)
@@ -123,7 +123,7 @@ To download any of these starter lecture skeletons, you can do this:
   * [CPU](https://simple.wikipedia.org/wiki/Central_processing_unit) (just read the introduction)
   * [Computer memory](https://simple.wikipedia.org/wiki/Computer_memory)
   * [Hard disk](https://simple.wikipedia.org/wiki/Hard_disk)
-* [Learn Python the Hard Way chapter on Linux/Unix Command Line Crash Course](http://learnpythonthehardway.org/book/appendixa.html)
+* [Learn Python the Hard Way chapter on Linux/Unix Command Line Crash Course](http://shop.learncodethehardway.org/paid/python3/appendixa.html)
 * [Exercise on navigation](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/EXERCISE_Linux_navigate_hello_world.md)
   * [linux_hello_world.tgz](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/linux_hello_world.tgz)
 * [Assignment instructions for navigation, edit, and Python execution](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/EXERCISE_Linux_navigation_assignment.md)
