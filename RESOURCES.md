@@ -46,3 +46,4 @@ A course taught at the University of Manchester by Vedran Sego.
 ## Git
 
 * [Git for humans](https://speakerdeck.com/alicebartlett/git-for-humans). A talk about what git is. 
+* [Try Git (sponsored by Github and created by CodeSchool)](https://try.github.io/levels/1/challenges/1)
