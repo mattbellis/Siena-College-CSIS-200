@@ -46,4 +46,7 @@ A course taught at the University of Manchester by Vedran Sego.
 ## Git
 
 * [Git for humans](https://speakerdeck.com/alicebartlett/git-for-humans). A talk about what git is. 
-* [Try Git (sponsored by Github and created by CodeSchool)](https://try.github.io/levels/1/challenges/1)
+* [Try Git (sponsored by Github and created by CodeSchool)](https://try.github.io/levels/1/challenges/1). Got 15 minutes and want to learn Git?
+* [Git Init](http://pel-daniel.github.io/git-init). A tutorial with stepped-through animation. 
+* [Getting started with Git](https://www.raspberrypi.org/learning/getting-started-with-git/). Part of [Raspberry Pi Learning Resources](https://www.raspberrypi.org/resources/)
+
