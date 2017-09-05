@@ -3,7 +3,8 @@
 Once the Anaconda Python distribution is installed, you should have access to the editor, IDLE. To open IDLE...
 
 ## Mac
-* Open a Terminal and type
+* Open a Terminal. You can do this by going to Searchlight and starting to type "terminal".
+* Once the terminal opens, then type
 
     idle3
 
