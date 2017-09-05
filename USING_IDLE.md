@@ -5,7 +5,7 @@ Once the Anaconda Python distribution is installed, you should have access to th
 ## Mac
 * Open a Terminal and type
 
-    idle
+    idle3
 
 Or...
 
