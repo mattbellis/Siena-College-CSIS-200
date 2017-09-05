@@ -15,6 +15,11 @@ Or...
 
 ## Windows
 
+* Launch "Anaconda Prompt"
+* At the prompt (flashing cursor) type "idle"
+
+Or..... (these might not work)
+
 * Press the "Windows key" and "r" at the same time (or search computer for "run")
 * In the "Run" window type: "cmd" (no quotes)
 * When Command Prompt comes up, type: "start idle"
