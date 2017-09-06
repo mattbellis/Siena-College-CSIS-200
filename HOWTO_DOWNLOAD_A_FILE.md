@@ -10,8 +10,10 @@ Chrome for this class for downloading files. If you don't already have it, click
   1. Click on **Raw** in the upper right.
   1. Click **Ctrl-s** or **Command-s** on Macs to save.
 
-3 You want to verify with your File Manager (Finder on Mac, My Computer or File Explorer on Windows) that the file you downloaded has either the **.py** or **.ipynb** at the very end, depending on the type of file you download. 
+3 You want to verify with your File Manager (Finder on Mac, My Computer or File Explorer on Windows) that the file you downloaded has either the **.py** or **.ipynb** at the very end, depending on the type of file you download. Sometimes, the file will have **.py.txt** or **.ipynb.txt** at the end and you want to remove that **.txt** part. 
 
 On Windows, you can do this in File Manager by doing XXXXXXXXXXXXXXXXXXXXXXXX
+
+On Mac, you can do this with XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 Good luck!
