@@ -16,4 +16,7 @@ On Windows, you can do this in File Manager by doing XXXXXXXXXXXXXXXXXXXXXXXX
 
 On Mac, you can do this with XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+You may find there are similar issues when you download files from Google Classroom. 
+
+
 Good luck!
