@@ -21,6 +21,13 @@ jupyter notebook
 * Open the Anaconda Launcher (can use Find (?) to find it if you don't have the icon).
 * Select ipython-notebook and either Install or Launch
 
+## Anaconda prompt
+* Open the Anaconda prompt
+* Type
+```
+jupyter-notebook
+```
+
 # Opening a file
 
 * To open a file, click on the proper folders (for this class *Desktop --> CSIS_200_F15*) to find the file. 
