@@ -35,7 +35,7 @@ To download any of these starter lecture skeletons, you can do this:
   * LPTHW chapters. [Exercise 4](http://shop.learncodethehardway.org/paid/python3/ex4.html),[Exercise 5](http://shop.learncodethehardway.org/paid/python3/ex5.html),[Exercise 6](http://shop.learncodethehardway.org/paid/python3/ex6.html),[Exercise 7](http://shop.learncodethehardway.org/paid/python3/ex7.html)
 * IPython/Jupyter notebooks
   * [Lecture notes](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_intro_to_Jupyter_notebook.ipynb)
-  * [Bryn Mawr comprehensive Jupyter users' manual](http://jupyter.cs.brynmawr.edu/hub/dblank/public/Jupyter%20Notebook%20Users%20Manual.ipynb)
+  * [Bryn Mawr comprehensive Jupyter users' manual](https://jupyter.brynmawr.edu/services/public/dblank/Jupyter%20Notebook%20Users%20Manual.ipynb)
   * [In-class lab](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/INCLASS_using_the_notebook.ipynb)
 * Review Notebook, printing, general coding, etc.
   * [Review 0](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/INCLASS_Review_printing_and_assignment_0.ipynb)
