@@ -74,7 +74,7 @@ To download any of these starter lecture skeletons, you can do this:
 * Importing modules
   * [Modules (slides)](https://docs.google.com/presentation/d/1laVXqNrO7Kcvw4Gnkx4SCRVF7PnBUWq7GEgzLaOz3cg/edit?usp=sharing)
   * [Lecture notes.](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_modules.ipynb)
-  * LPTHW chapters [A](http://shop.learncodethehardway.org/paid/python3/ex40.html)
+  * LPTHW chapters [Exercise 40](http://shop.learncodethehardway.org/paid/python3/ex40.html)
 * Numpy and scipy
   * [Lecture notes.](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/LECTURE_numpy_scipy.ipynb)
   * [Numpy](http://www.numpy.org/)
