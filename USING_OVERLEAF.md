@@ -13,7 +13,7 @@ LaTeX references for symbols and other features.
 * Click on the green `NEW PROJECT` button in the upper left. 
 * Usually what you want to do next is select the `Blank Paper` template from the **Basics** options. 
 * Rename the project to be something descriptive, so that you can find it later. 
-** Directions on how to do this can be found [here](https://www.overleaf.com/help/26-how-do-i-rename-a-project-in-my-projects#.Wfgb7rxKuCg).
+  * Directions on how to do this can be found [here](https://www.overleaf.com/help/26-how-do-i-rename-a-project-in-my-projects#.Wfgb7rxKuCg).
 
 ## Uploading your own LaTeX files from your laptop
 
