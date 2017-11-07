@@ -1,3 +1,6 @@
+These instructions work equally well if you are using the `nano` program to edit files. Just replace
+`pico` with `nano` below and everything here will work the same. 
+
 To open a file named FILENAME with pico.
 
         pico FILENAME
