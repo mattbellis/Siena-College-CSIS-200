@@ -1,6 +1,6 @@
 # Set up your Linux environment
 
-1. Log into [SageMathCloud](https://cloud.sagemath.com)
+1. Log into [CoCalc](https://cocalc.com) (you might have to create a new account)
 2. Create a "New Project"
     1. Give it the Title "Python and shell scripts"
     2. Give it the Description "Running Python from shell scripts"
@@ -14,14 +14,14 @@
 Monte Carlo methods.
     1. Use only 10000 random numbers. 
     2. *Do not* print out any of the plots. 
-2. Follow the instructor and use the [sys module](https://docs.python.org/2/library/sys.html) to add command-line options. 
+2. Follow the instructor and use the [sys module](https://docs.python.org/3/library/sys.html) to add command-line options. 
 
          import sys
          
          print len(sys.argv)
          for a in sys.argv:
-             print a
-             print type(a)
+             print(a)
+             print(type(a))
              
           #npoints = int(sys.argv[1])
           #if npoints>1e7:
