@@ -1,9 +1,9 @@
-1. Log into [SageMathCloud](https://cloud.sagemath.com/)
+1. Log into [CoCalc](https://cocalc.com) (you might have to create a new account)
 2. Create a "New Project"
   1. Give it the Title "Hello world"
   2. Give it the Description "My first exercise with Linux!"
 3. Open up this Project
-4. Create a "New" file.
+4. Create a "New" file (from the big "Create or upload a file" button.
   1. Name the file "myterminal" and "Select the type" to be ">_ Terminal"
   
 Where are you?
@@ -25,12 +25,12 @@ Upload a tar archive (similar to a zip file), with directories and files in it.
     1. Download [linux_hello_world.tgz](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/linux_hello_world.tgz) to your laptop.
     2. Upload it to your SageMathCloud project by
         1. Clicking on "+ New" 
-        2. Uploading the file through the interface provided.
+        2. Uploading the file through the interface provided "Drop files to upload".
         3. Go back go "Files" (upper left)
         4. Click on "myterminal.term"
         
 
-Unpack (actually untar) this file with the following command. 
+Unpack (actually untar) this file with the following command (hit "Enter" after you type that). 
 
     tar -zxf linux_hello_world.tgz
 
