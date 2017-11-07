@@ -23,7 +23,7 @@ Upload a tar archive (similar to a zip file), with directories and files in it.
 
 1. Upload the necessary files for this exercise.
     1. Download [linux_hello_world.tgz](https://github.com/mattbellis/Siena-College-CSIS-200/blob/master/lectures/linux_hello_world.tgz) to your laptop.
-    2. Upload it to your SageMathCloud project by
+    2. Upload it to your CoCalc project by
         1. Clicking on "+ New" 
         2. Uploading the file through the interface provided "Drop files to upload".
         3. Go back go "Files" (upper left)
