@@ -3,7 +3,7 @@
   1. Give it the Title "Hello world"
   2. Give it the Description "My first exercise with Linux!"
 3. Open up this Project
-4. Create a "New" file (from the big "Create or upload a file" button.
+4. Create a "New" file (from the big "Create or upload a file" button).
   1. Name the file "myterminal" and "Select the type" to be ">_ Terminal"
   
 Where are you?
