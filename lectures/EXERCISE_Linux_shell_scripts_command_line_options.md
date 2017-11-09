@@ -25,7 +25,7 @@ Monte Carlo methods.
              
           #npoints = int(sys.argv[1])
           #if npoints>1e7:
-          #    print "Too many points! Must be less than 10M"
+          #    print("Too many points! Must be less than 10M")
           #    exit()
           
 3. Once you have understood what is happening and uncommented the necessary lines, run the script
