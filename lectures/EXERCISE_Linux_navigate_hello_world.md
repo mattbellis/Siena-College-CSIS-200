@@ -44,6 +44,7 @@ Your assignment now is to:
 
         python FILENAME
 
+* You may or may not get an error when you run this file. If so, try to fix the error by editing the file with `nano` or `pico`.
 * Look inside any data files you find. 
 * What is the full path to the data files?
 * Where do I need to book travel to?
