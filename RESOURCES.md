@@ -9,6 +9,7 @@
 ### Other courses
 * [Programming with Python.](http://www.maths.manchester.ac.uk/~vsego/teaching.php)
 A course taught at the University of Manchester by Vedran Sego.
+* [Google's Python course](https://developers.google.com/edu/python/)
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/)
 * [Code Academy.](https://www.codecademy.com/en/tracks/python) Online bootcamp that teaches you Python through exercises in the browser. 
 
